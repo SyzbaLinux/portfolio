@@ -1,0 +1,12 @@
+
+
+#nav2{
+    margin-top: 20px;
+}
+
+div{
+    border:1px solid black; 
+    background-color: yellow;
+    padding: 10px;
+    
+}

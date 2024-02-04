@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emmanuel Siziba</title>
+
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    
+    <div class="navbar"> 
+        <ul class="navlist">
+            <li>Home</li>
+            <li>About</li>
+            <li>My Work</li>
+            <li>Skills</li>
+        </ul>
+    </div>
+ 
+
+</body>
+</html>
